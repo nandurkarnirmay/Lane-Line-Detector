@@ -34,8 +34,8 @@ lane-detection-opencv/
 ├── requirements.txt        # Dependencies
 ├── lane_detection.py       # Main script
 ├── road.png                # Test image
-├── test_video.mp4           # Test video
-└── outputs/                 # Output results (optional)
+├── test_video.mp4          # Test video
+└── outputs/                # Output results (optional)
 ```
 
 ---
